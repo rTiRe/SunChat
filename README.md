@@ -1,4 +1,5 @@
-# SunChat
+# SunChat (Not relevant)
+# SunChat :arrow_right: [lightChat](http://github.com/rTiRe/lightChat)
 
 ## Minecraft плагин на глобальный, локальный и мировой чат.
 
